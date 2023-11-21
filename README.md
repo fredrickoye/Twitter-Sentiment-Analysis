@@ -59,6 +59,4 @@ This project focuses on analyzing sentiments expressed in Twitter data. The goal
 - Explore deep learning models for complex sentiment analysis tasks.
 - Incorporate additional features or external datasets for a comprehensive analysis.
 
----
 
-Feel free to add or modify sections based on your project's specific details.
